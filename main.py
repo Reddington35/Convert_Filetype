@@ -8,3 +8,5 @@ for i in text:
 text.close()
 out.close()
 print(out)
+
+# new
