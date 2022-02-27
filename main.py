@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # method that removes  char '=' from file
-# and converts .txt to .csv
+# and converts .txt to .csv format
 def format_csv():
     ntp = "ntplog.txt"
     new_ntp = "new_file.txt"
