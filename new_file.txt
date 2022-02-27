@@ -1,5 +1,5 @@
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u   55   64  377   21.206   -4.556   2.596
 -time.shf.uk.as4 198.137.202.11   3 u   46   64  377   24.130   -4.625   1.257
@@ -11,7 +11,7 @@
 +golem.canonical 17.253.108.253   2 u   52   64  377   25.334   -3.170   3.716
 -alphyn.canonica 194.58.200.20    2 u   54   64  377   80.397   -4.223   2.233
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u    5  128  377   20.327   -0.468   1.226
 -time.shf.uk.as4 198.137.202.11   3 u    4  128  377   24.798   -1.376   1.627
@@ -23,7 +23,7 @@
 +golem.canonical 17.253.108.125   2 u   18   64  377   24.588   -1.113   2.015
 -alphyn.canonica 194.58.200.20    2 u   86  128  377   81.054   -2.326   1.587
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u   13  128  377   20.021   -0.419   2.301
 -time.shf.uk.as4 198.137.202.11   3 u   21  128  377   25.861   -1.064   0.926
@@ -35,7 +35,7 @@
 +golem.canonical 17.253.108.125   2 u  108  128  377   24.802    0.315   2.168
 -alphyn.canonica 194.58.200.20    2 u   94  256  357   82.319    0.333   1.086
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u   26  128  377   20.595   -1.154   1.679
 -time.shf.uk.as4 198.137.202.11   3 u   42  128  377   24.779   -2.177   1.357
@@ -47,7 +47,7 @@
 +golem.canonical 17.253.108.125   2 u  121  128  377   24.375   -0.563   0.855
 -alphyn.canonica 194.58.200.20    2 u  249  256  377   82.319    0.333   0.798
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u   39  256  377   21.256   -0.091   1.375
 -time.shf.uk.as4 198.137.202.11   3 u  197  256  377   26.445   -1.638   1.249
@@ -59,7 +59,7 @@
 +golem.canonical 17.253.108.253   2 u   10  256  377   24.909   -0.663   1.423
 -alphyn.canonica 17.253.34.253    2 u  156  512  377   82.680   -0.450   1.307
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  181  256  377   21.256   -0.091   1.397
 -time.shf.uk.as4 198.137.202.11   3 u   66  256  377   26.923   -0.788   0.450
@@ -71,7 +71,7 @@
 +golem.canonical 145.238.203.14   2 u  172  256  377   24.996   -0.083   2.014
 -alphyn.canonica 17.253.34.123    2 u  831  512  376   82.859    0.787   0.874
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u   70  256  377   18.932   -1.862   2.357
 -time.shf.uk.as4 198.137.202.11   3 u  215  256  377   26.726   -1.048   0.684
@@ -83,7 +83,7 @@
 +golem.canonical 17.253.108.253   2 u   72  256  377   24.996   -0.083   0.923
 -alphyn.canonica 17.253.34.123    2 u  437  512  373   82.119   -0.036   2.016
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  212  256  377   18.932   -1.862   4.707
 -time.shf.uk.as4 198.137.202.11   3 u  104  256  377   25.321   -0.679   1.720
@@ -95,7 +95,7 @@
 +golem.canonical 140.203.204.77   2 u  227  256  377   26.523    0.406   0.789
 -alphyn.canonica 194.58.200.20    2 u   66  512  337   81.206    0.148   1.830
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u   93  512  377   20.689   -0.535   3.662
 +time.shf.uk.as4 198.137.202.11   3 u  511  512  377   25.321   -0.679   1.815
@@ -107,7 +107,7 @@
 -golem.canonical 140.203.204.77   2 u  366  512  377   26.218    0.610   2.069
 -alphyn.canonica 145.238.203.14   2 u  211 1024  177   81.206    0.148   1.786
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  240  512  377   20.954   -0.435   3.608
 -time.shf.uk.as4 198.137.202.11   3 u  135  512  377   26.829    0.556   1.325
@@ -119,7 +119,7 @@
 +golem.canonical 17.253.108.253   2 u  506  512  377   25.828    0.319   2.319
 -alphyn.canonica 145.238.203.14   2 u  379  512  377   82.026   -0.080   1.800
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  386  512  377   20.954   -0.435   0.658
 -time.shf.uk.as4 198.137.202.11   3 u  294  512  377   28.049    0.606   1.332
@@ -131,7 +131,7 @@
 +golem.canonical 17.253.108.125   2 u  117  512  377   26.543    1.225   1.956
 -alphyn.canonica 194.58.200.20    2 u  521  512  377   82.026   -0.080   0.978
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u   22  512  377   21.872   -1.088   0.813
 -time.shf.uk.as4 198.137.202.11   3 u  458  512  377   28.049    0.606   1.395
@@ -143,7 +143,7 @@
 -golem.canonical 17.253.108.125   2 u  250  512  377   25.269   -0.391   2.576
 -alphyn.canonica 17.253.34.123    2 u  157  512  377   82.416   -0.708   1.454
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  159 1024  377   21.306   -0.378   0.651
 -time.shf.uk.as4 198.137.202.11   3 u   47 1024  377   26.091   -0.712   2.246
@@ -155,7 +155,7 @@
 +golem.canonical 17.253.108.125   2 u  398  512  377   25.269   -0.391   2.081
 -alphyn.canonica 17.253.34.123    2 u  312  512  377   83.015    0.453   0.920
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  329 1024  377   21.306   -0.378   0.665
 -time.shf.uk.as4 198.137.202.11   3 u  186 1024  377   26.091   -0.712   2.077
@@ -167,7 +167,7 @@
 +golem.canonical 17.253.108.253   2 u   41 1024  377   28.044    0.155   1.564
 -alphyn.canonica 17.253.34.123    2 u  999 1024  377   83.015    0.453   0.902
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  493 1024  377   22.336   -1.053   0.744
 -time.shf.uk.as4 198.137.202.11   3 u  332 1024  377   31.067   -0.629   1.761
@@ -179,7 +179,7 @@
 -golem.canonical 17.253.108.253   2 u  177 1024  377   29.985    1.417   1.359
 -alphyn.canonica 17.253.34.123    2 u   91 1024  377   83.750   -0.196   3.389
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  649 1024  377   21.233   -1.681   1.223
 -time.shf.uk.as4 198.137.202.11   3 u  481 1024  377   28.834   -1.108   2.089
@@ -191,7 +191,7 @@
 -golem.canonical 17.253.108.253   2 u 1377 1024  376   29.985    1.417   1.359
 -alphyn.canonica 17.253.34.123    2 u 1291 1024  376   83.750   -0.196   3.389
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  810 1024  377   21.099   -1.371   0.923
 -time.shf.uk.as4 198.137.202.11   3 u  650 1024  377   28.834   -1.108   1.904
@@ -203,7 +203,7 @@
 -golem.canonical 145.238.203.14   2 u  466 1024  375   28.975    0.755   0.650
 -alphyn.canonica 145.238.203.14   2 u  398 1024  375   84.788   -0.129   3.353
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  968 1024  377   21.099   -1.371   0.899
 -time.shf.uk.as4 198.137.202.11   3 u  807 1024  377   30.566   -1.088   1.561
@@ -215,7 +215,7 @@
 -golem.canonical 17.253.108.125   2 u  619 1024  373   28.975    0.755   0.589
 -alphyn.canonica 145.238.203.14   2 u  553 1024  373   84.401   -1.467   4.168
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u   51 1024  377   20.440   -2.708   1.786
 -time.shf.uk.as4 198.137.202.11   3 u  934 1024  377   30.566   -1.088   1.380
@@ -227,7 +227,7 @@
 +golem.canonical 17.253.108.253   2 u  763 1024  367   29.301    0.691   0.567
 -alphyn.canonica 17.253.34.253    2 u  688 1024  367   83.663   -1.201   3.891
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  194 1024  377   20.440   -2.708   1.860
 -time.shf.uk.as4 198.137.202.11   3 u   21 1024  377   28.016   -0.029   1.348
@@ -239,7 +239,7 @@
 +golem.canonical 17.253.108.253   2 u  928 1024  357   27.807   -0.481   1.286
 -alphyn.canonica 17.253.34.253    2 u  811 1024  357   83.071   -0.835   3.653
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  341 1024  377   20.854   -1.081   1.388
 -time.shf.uk.as4 198.137.202.11   3 u  180 1024  377   27.388   -0.244   0.852
@@ -251,7 +251,7 @@
 +golem.canonical 17.253.108.253   2 u   59 1024  277   27.805   -0.528   1.288
 +alphyn.canonica 17.253.34.253    2 u 2010 1024  336   83.071   -0.835   3.653
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  502 1024  377   23.862   -0.651   1.647
 +time.shf.uk.as4 198.137.202.11   3 u  328 1024  377   27.388   -0.244   1.091
@@ -263,7 +263,7 @@
 +golem.canonical 145.238.203.14   2 u  186 1024  177   27.805   -0.528   1.097
 -alphyn.canonica 145.238.203.14   2 u   85 1024  173   85.884    0.204   3.455
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  668 1024  377   23.862   -0.651   1.606
 +time.shf.uk.as4 198.137.202.11   3 u  486 1024  377   29.989    0.197   1.220
@@ -275,7 +275,7 @@
 +golem.canonical 145.238.203.14   2 u  304 1024  377   29.381    1.355   1.341
 -alphyn.canonica 17.253.34.123    2 u  228 1024  367   84.058   -0.354   1.046
      remote           refid      st t when poll reach   delay   offset  jitter
-==============================================================================
+
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 *brenbox.westnet .GPS.            1 u  799 1024  377   23.756   -0.616   1.604
 -time.shf.uk.as4 198.137.202.11   3 u  613 1024  377   28.739    1.497   2.092
