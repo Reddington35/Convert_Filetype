@@ -1,15 +1,13 @@
 import os
-import pandas as pd
-# here
-file_read = "ntplog.txt"
-file_write = "new_gile.txt"
-text = open(file_read,"r")
-data = text.read()
-text.close()
 
-with open(file_write,"a") as file:
-    text.write(data)
-print("done")
+text = open("ntplog.txt")
+new_file = open("new_file.txt", "w")
+r = text.readlines()
+
+for line in r:
+    new_file.write(line)
+new_file.close()
+
 
 
 
