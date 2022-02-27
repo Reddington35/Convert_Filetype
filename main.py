@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-
+# here
 file_read = "ntplog.txt"
 file_write = "new_gile.txt"
 text = open(file_read,"r")
