@@ -1,12 +1,17 @@
 import os
-text = open("ntplog.txt","rt")
-out = open("out.txt","wt")
-for i in text:
-    out.write(' '.join(i.split()))
-    if(i == "="):
-        print("\n")
-text.close()
-out.close()
-print(out)
+import pandas as pd
 
-# new
+file_read = "ntplog.txt"
+file_write = "new_gile.txt"
+text = open(file_read,"r")
+data = text.read()
+text.close()
+
+with open(file_write,"a") as file:
+    text.write(data)
+print("done")
+
+
+
+
+
